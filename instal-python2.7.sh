@@ -2,7 +2,7 @@
 # instal python2.7
 # dibuat oleh : rofi
 # github : https://github.com/rofidoang03/install-python2.7
-# masih tahap pengembangan
+# masih dalam tahap pengembangan
 
 apt-get update
 apt-get install wget
