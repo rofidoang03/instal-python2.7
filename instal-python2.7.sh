@@ -1,7 +1,8 @@
 #!/bin/bash
-# install python2.7
+# instal python2.7
 # dibuat oleh : rofi
 # github : https://github.com/rofidoang03/install-python2.7
+# masih tahap pengembangan
 
 apt-get update
 apt-get install wget
